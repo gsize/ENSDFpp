@@ -1,0 +1,14 @@
+This is the ENSDF++ software, intended for making searches in the ENSDF database (Evaluated Nuclear Structure Data File). It is written in C++.
+
+The ENSDF++ software also comes with a few help programs, such as a plotter to create nuclide charts in EPS format from the ENSDF++ output.
+
+The documentation is currently a bit scattered. The documentation is generated using Doxygen. An older version can be found at http://fy.chalmers.se/subatom/kand/2012/precalib/ENSDF++/. The latest version can be generated from the source code here, an online version should hopefully be availible within short.
+
+
+
+Created and maintained by Rikard Lundmark
+
+Credits:
+Rikard Lundmark
+Carl Toft
+Philippe Klintefelt Collet
