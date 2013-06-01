@@ -1,0 +1,15 @@
+*.aux
+*.bak
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*-eps-converted-to.pdf
+*.out
+*.nav
+*.vrb
+*~
+*.[0-9]
+*.mp
+*.t[0-9]
